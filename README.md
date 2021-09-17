@@ -1,0 +1,1 @@
+# Info_y_prog_industrial
