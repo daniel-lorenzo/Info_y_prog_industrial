@@ -10,11 +10,11 @@ Se ofrece libremente, sin garantía.
 ## índice
 
 ### Guías de ejercicios
-Unidad 1      
+#### Unidad 1      
 * [Conversión entre sistemas numéricos](https://nbviewer.jupyter.org/github/daniel-lorenzo/Info_y_prog_industrial/blob/main/Guia_1.ipynb)
-Unidad 2      
+#### Unidad 2      
 * [Algebra de Boole](https://nbviewer.jupyter.org/github/daniel-lorenzo/Info_y_prog_industrial/blob/main/Guia_2.ipynb)
-Unidad 3       
+#### Unidad 3       
 * [Mapas de Karnaugh](https://nbviewer.jupyter.org/github/daniel-lorenzo/Info_y_prog_industrial/blob/main/Guia_3.ipynb)
 
 ### Software libre relacionado
