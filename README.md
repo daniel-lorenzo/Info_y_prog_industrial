@@ -16,7 +16,8 @@ Se ofrece libremente, sin garantía.
 * [Algebra de Boole](https://nbviewer.jupyter.org/github/daniel-lorenzo/Info_y_prog_industrial/blob/main/Guia_2.ipynb)
 #### Unidad 3       
 * [Mapas de Karnaugh](https://nbviewer.jupyter.org/github/daniel-lorenzo/Info_y_prog_industrial/blob/main/Guia_3.ipynb)
-
+### Trabajos Prácticos
+* [TP1 - Sistemas Combinacionales](https://nbviewer.jupyter.org/github/daniel-lorenzo/Info_y_prog_industrial/blob/main/TP1.ipynb)
 ### Software libre relacionado
 
 * [Digital](https://github.com/hneemann/Digital)
